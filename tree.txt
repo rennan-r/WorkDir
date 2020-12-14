@@ -1,0 +1,15 @@
+文件夹 PATH 列表
+卷序列号为 8AE9-AF07
+C:\USERS\ADMINISTRATOR\WORKDIR
+├─Python
+│  ├─框架
+│  │  ├─Django
+│  │  └─Flask
+│  ├─第三方模块
+│  │  ├─其他
+│  │  └─开发
+│  │      └─数据验证库
+│  └─网站
+├─其他
+└─工具
+    └─部署
