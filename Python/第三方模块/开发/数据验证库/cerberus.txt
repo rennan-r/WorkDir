@@ -2,3 +2,6 @@ Cerberus是一个用于Python的轻量级且可扩展的数据验证库
 
 备注：
 开发时接口参数验证
+
+参考链接:
+https://www.jianshu.com/p/7a7cde8702c7?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation

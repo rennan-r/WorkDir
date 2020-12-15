@@ -1,0 +1,7 @@
+快速从MySQL数据库中生成flask-sqlalchemy模型类
+
+备注：
+数据库表太多时使用起来非常方便
+
+参考链接：
+https://blog.csdn.net/qq_42553568/article/details/90402059
